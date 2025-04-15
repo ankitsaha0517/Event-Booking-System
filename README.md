@@ -34,3 +34,29 @@ Follow these steps to run the project locally:
    ```sh
    git clone <repository-url>
    cd eventbooking
+
+2. **Install Dependencies :** Use npm to install the required dependencies: :
+   ```sh
+   npm install
+3. **Run the Development Server :** Start the development server:
+    ```sh
+    npm run dev
+
+4. **Open in Browser :** Open your browser and navigate to:
+    ```sh
+    npm run dev 
+
+## Folder Structure
+├── public/
+│   ├── assets (images, fonts, etc.)
+├── src/
+│   ├── Components/ (Reusable components)
+│   ├── pages/ (Application pages)
+│   ├── store/ (Redux store and reducers)
+│   ├── utils/ (Utility functions)
+│   ├── [App.jsx](http://_vscodecontentref_/1) (Main application component)
+│   ├── [main.jsx](http://_vscodecontentref_/2) (Entry point)
+│   ├── [index.css](http://_vscodecontentref_/3) (Global styles)
+├── [package.json](http://_vscodecontentref_/4) (Project dependencies and scripts)
+├── [vite.config.js](http://_vscodecontentref_/5) (Vite configuration)
+├── [tailwind.config.js](http://_vscodecontentref_/6) (Tailwind CSS configuration)Structure
