@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.common-heading {
+  @apply text-4xl font-bold my-4;
+}
+
+.active-step {
+  @apply text-white bg-black p-0;
+}
+
+
+@font-face {
+  font-family: gilroy;
+  src: url(/Gilroy-Bold.ttf);
+}
+
+.text-stroke {
+  -webkit-text-stroke: 3px #123574;
+  color: white;
+}
+
+  
