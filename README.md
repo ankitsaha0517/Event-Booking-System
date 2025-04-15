@@ -47,6 +47,8 @@ Follow these steps to run the project locally:
     npm run dev 
 
 ## Folder Structure
+
+<pre>
 ├── public/
 │   ├── assets (images, fonts, etc.)
 ├── src/
@@ -59,4 +61,4 @@ Follow these steps to run the project locally:
 │   ├── [index.css](http://_vscodecontentref_/3) (Global styles)
 ├── [package.json](http://_vscodecontentref_/4) (Project dependencies and scripts)
 ├── [vite.config.js](http://_vscodecontentref_/5) (Vite configuration)
-├── [tailwind.config.js](http://_vscodecontentref_/6) (Tailwind CSS configuration)Structure
+├── [tailwind.config.js](http://_vscodecontentref_/6) (Tailwind CSS configuration)Structure </pre>
