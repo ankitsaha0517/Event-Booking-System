@@ -2,7 +2,7 @@
 import React from "react";
 import { Outlet } from "react-router";
 import NavBar from "../Components/NavBar";
-import Footer from "../Components/footer";
+import Footer from "../Components/Footer";
 const Layout = () => {
   return (
     <div className="bg-[#c7ccd3] min-h-[100vh]">
