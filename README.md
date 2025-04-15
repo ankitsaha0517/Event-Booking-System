@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ankitsaha0517/Event-Booking-System.git
    cd eventbooking
 
 2. **Install Dependencies :** Use npm to install the required dependencies: :
